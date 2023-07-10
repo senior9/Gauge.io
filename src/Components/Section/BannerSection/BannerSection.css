@@ -1,0 +1,7 @@
+.gold-color{
+   color: chocolate;
+}
+.image:hover{
+    transform: translateY(-5px); 
+    transition: transform 2s ease;
+}
